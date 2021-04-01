@@ -4,6 +4,8 @@
 
 * [Binary search tree](https://mybinder.org/v2/gh/tutorials-4newbies/trees/master?filepath=Binary_search_tree.ipynb)
 
+* [traversal](https://mybinder.org/v2/gh/tutorials-4newbies/trees/master?filepath=Binary_search_tree.ipynb)
+
 ## Local setup
 
 ```bash
