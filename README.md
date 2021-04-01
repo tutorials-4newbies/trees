@@ -1,7 +1,8 @@
 ## binders
 
-[trees intro](https://mybinder.org/v2/gh/tutorials-4newbies/trees/master?filepath=trees_intro.ipynb)
-[Binary search tree](https://mybinder.org/v2/gh/tutorials-4newbies/trees/master?filepath=Binary_search_tree.ipynb)
+* [trees intro](https://mybinder.org/v2/gh/tutorials-4newbies/trees/master?filepath=trees_intro.ipynb)
+
+* [Binary search tree](https://mybinder.org/v2/gh/tutorials-4newbies/trees/master?filepath=Binary_search_tree.ipynb)
 
 ## Local setup
 
