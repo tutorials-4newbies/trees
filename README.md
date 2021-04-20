@@ -6,6 +6,8 @@
 
 * [traversal](https://mybinder.org/v2/gh/tutorials-4newbies/trees/master?filepath=Binary_search_tree.ipynb)
 
+* [Binary search tree 2](https://mybinder.org/v2/gh/tutorials-4newbies/trees/master?filepath=Binary_search_tree-2.ipynb)
+
 ## Challenges
 
 * [Implementing file system](https://mybinder.org/v2/gh/tutorials-4newbies/trees/master?filepath=file_system_challenge.ipynb)
